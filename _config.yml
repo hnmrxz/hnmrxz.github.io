@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: Spectral
+title: Youth in HN——一支富有活力与创造力的新时代海宁斜杠青年群体
 description: |
   Another fine responsive  
   site template freebie  
@@ -10,7 +10,7 @@ description: |
 owner: YHN # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: 1102132771@qq.com
-baseurl: "hnmrxz.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hnmrxz.github.io" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
