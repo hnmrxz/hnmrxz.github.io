@@ -7,14 +7,14 @@ description: |
   一个
   富有活力与创造力的
   新时代海宁斜杠青年伙伴圈
-owner: YHN # or company name
+owner: YOUTH IN HN # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: 1102132771@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yhn.github.io" # the base hostname & protocol for your site
+url: "https://younthhn.github.io" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
-  github: https://github.com/yhn
+  github: https://github.com/younthhn
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
