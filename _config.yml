@@ -11,7 +11,7 @@ owner: YOUTH IN HN # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: 1102132771@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://younthhn.github.io" # the base hostname & protocol for your site
+url: "https://youthhn.github.io" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/younthhn
