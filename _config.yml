@@ -2,16 +2,16 @@
 #
 
 # Site settings
-title: Youth in HN
+title: 潮百相
 description: |
   一个
   富有活力与创造力的
-  新时代海宁斜杠青年伙伴圈
-owner: YOUTH IN HN # or company name
-first_published: 2019 # if migrating another site, the year of your first publish
+  新时代海宁斜杠伙伴圈
+owner: 潮百相社会服务联合会 # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
 email: 1102132771@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://youthhn.github.io" # the base hostname & protocol for your site
+url: "http://www.hncbx.org.cn" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/younthhn
